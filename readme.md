@@ -1,4 +1,4 @@
-# 🚖 OLA Data Analyst Project  
+# 🚖 OLA Data Analysis 
 
 ## 📌 Project Overview  
 This project analyzes ride data from OLA using **SQL** and **Power BI** to derive insights related to ride bookings, cancellations, ratings, revenue, and customer behavior.  
