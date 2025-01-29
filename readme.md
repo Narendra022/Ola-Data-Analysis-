@@ -98,7 +98,7 @@ The dataset consists of the following key fields:
 ## 🚀 How to Use This Project  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/OLA-Data-Analyst-Project.git
+   git clone https://github.com/Narendra022/Ola-Data-Analysis.git
    ```
 2. Run the SQL queries on your database.  
 3. Open the Power BI file to explore dashboards.  
